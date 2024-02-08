@@ -1,7 +1,7 @@
 {
   "name": "chapter-8-example-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "Continuous Integration",
   "main": "./src/index.js",
   "scripts": {
     "start": "node ./src/index.js",
