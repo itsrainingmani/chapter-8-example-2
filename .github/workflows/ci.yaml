@@ -14,12 +14,12 @@ jobs:
 
     steps:
     
-    - uses: actions/checkout@latest
+    - uses: actions/checkout@v4
 
     # 
     # Installs Node.js for use in the workflow.
     #
-    - uses: actions/setup-node@latest
+    - uses: actions/setup-node@v4
       with:
         node-version: 18.x
         cache: 'npm'
